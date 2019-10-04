@@ -24,3 +24,5 @@ Game2: A number of games are played between a naive and intelligent player. Esti
 naive and starts the game.
 
 Game3: A number of games are played between two intelligent players. Estimate probability of winning for player1. Assume player1 starts the game.  
+
+Added optimality constraints
